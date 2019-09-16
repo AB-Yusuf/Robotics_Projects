@@ -31,18 +31,18 @@ void loop()
 {
   //Entering the values for each color as an argument
   setColor(255, 0, 0); //red
-  delay(1000);
+  delay(500);
   setColor(0, 255, 0); //green
-  delay(1000);
+  delay(500);
   setColor(0, 0, 255); // blue
-  delay(1000);
+  delay(500);
   setColor(255, 255, 0); //yellow
-  delay(1000);
+  delay(5000);
   setColor(80, 0, 80);  //purple
-  delay(1000);    
+  delay(500);    
   setColor(0, 255, 255); //aqua 
-  delay(1000);
+  delay(500);
   setColor(0x4B, 0x0, 0x82); 
   delay(1000);
-  delay(1000);
+  
 }
